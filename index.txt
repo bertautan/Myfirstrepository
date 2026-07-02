@@ -3,5 +3,5 @@ My coding resolution
 - complete basisc of java
 - understanding git and github works
 - test my skill on w3school without cheats
-- trying leetcode
 - trying to debug a sc
+- build a small project
