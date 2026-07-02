@@ -1,0 +1,4 @@
+My coding resolution
+- complete basic of python
+- complete basisc of java
+- understanding git and github works
